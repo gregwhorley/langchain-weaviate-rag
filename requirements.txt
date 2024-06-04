@@ -1,0 +1,5 @@
+bs4
+langchain-weaviate
+langchain
+langchain-community
+langchain-openai
